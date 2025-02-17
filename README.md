@@ -1,11 +1,5 @@
-## POV IBM Replication
-> This only provides thought into replication.
-#### Use Cases Link
-
 ![image](https://github.com/user-attachments/assets/53e33d42-3395-4ada-a0a5-04ecd1c02457)
-
-
-#### IBM Data replication methods covered in this repo
+### IBM Data replication methods covered in this repo
 - Change Data Capture (CDC) (DataMirror heritage product formerly known as Transformation Server)
 - Q Repication 
 - SQL Replication (formerly known as DataPropagator on mainframe and DPropR for LUW)
@@ -18,7 +12,6 @@
 
 ![image](https://github.com/user-attachments/assets/cba800dd-e489-44a6-9fc2-e710020b4d01)
 ![image](https://github.com/user-attachments/assets/89fe0317-f24f-4e89-b2fe-eb10d36d632a)
-
 
 
 #### 
