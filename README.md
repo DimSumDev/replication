@@ -7,10 +7,6 @@
 - StreamSets  
 - DataStage  
 [IBM Docs - CDC -- Source and Target](https://www.ibm.com/docs/en/idr/11.4.0?topic=requirements-supported-source-targets)  
-[IBM Docs - SQL / Q rep and Event Publishing -- Sources and Target](https://www.ibm.com/docs/en/idr/11.4.0?topic=overviews-supported-sources-targets)  
-[IBM Docs - SQL / Q rep / Event Publishing -- Comparison](https://www.ibm.com/docs/en/idr/11.4.0?topic=overviews-comparison-q-replication-sql-replication-event-publishing)  
-[IBM Docs - Q rep -- Comparison to HADR](https://www.ibm.com/docs/en/idr/11.4.0?topic=po-comparison-q-replication-high-availability-disaster-recovery-hadr)  
-
 ![image](https://github.com/user-attachments/assets/cba800dd-e489-44a6-9fc2-e710020b4d01)
 ![image](https://github.com/user-attachments/assets/89fe0317-f24f-4e89-b2fe-eb10d36d632a)
 
