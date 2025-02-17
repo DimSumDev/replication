@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/53e33d42-3395-4ada-a0a5-04ecd1c02457)
+![image](https://github.com/user-attachments/assets/2d2183d7-5965-4df8-a200-6bb072e482d6)
+
 ### IBM Data replication methods covered in this repo
 - Change Data Capture (CDC) (DataMirror heritage product formerly known as Transformation Server)
 - Q Replication 
