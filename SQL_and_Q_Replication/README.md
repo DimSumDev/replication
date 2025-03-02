@@ -6,8 +6,8 @@
 
 ![image](https://github.com/user-attachments/assets/4eb24e55-0d6c-4e17-9c9e-36308c0a7a16)  
 
-> [!NEW]
-> test this
+> [!MPORTANT] New items
+> March 2023 Q-rep is available on OpenShift with Db2U 11.5.8.0-cn1
 
 ![image](https://github.com/user-attachments/assets/89fe0317-f24f-4e89-b2fe-eb10d36d632a)  
 [IBM Docs - SQL / Q rep and Event Publishing -- Sources and Target](https://www.ibm.com/docs/en/idr/11.4.0?topic=overviews-supported-sources-targets)  
