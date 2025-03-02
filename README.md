@@ -2,8 +2,7 @@
 
 ### IBM Data replication methods covered in this repo
 - Change Data Capture (CDC) (DataMirror heritage product formerly known as Transformation Server)
-- [Q Replication](https://github.com/DimSumDev/replication/tree/main/Q-replication)
-- SQL Replication (formerly known as DataPropagator on mainframe and DPropR for LUW)
+- [SQL Replication (formerly known as DataPropagator on mainframe and DPropR for LUW) and Q Replication](https://github.com/DimSumDev/replication/tree/main/SQL_and_Q_Replication)
 - StreamSets  
 - DataStage  
 [IBM Docs - CDC -- Source and Target](https://www.ibm.com/docs/en/idr/11.4.0?topic=requirements-supported-source-targets)  
