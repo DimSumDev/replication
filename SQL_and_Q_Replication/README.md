@@ -1,5 +1,6 @@
-## SQL & QReplication Page
+## SQL & Q Replication Page  
 ### [IBM Docs - Q Replication and SQL Replication Main Page](https://www.ibm.com/docs/en/idr/11.4.0?topic=q-replication-sql-replication)  
+### [IBM Docs - Roadmap](https://www.ibm.com/docs/en/idr/11.4.0?topic=overviews-q-replication-information-roadmap#iiyrqinfroadmap)  
 > [!NOTE]
 > SQL and Q replication both have their unique value. This section mainly cover in Q replication.  
 > SQL replication is typically used for fan out or if connection to database has a limited window. It does requires a staging table to store committed transactions
