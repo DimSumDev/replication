@@ -3,12 +3,8 @@
 > CHCCLP command can be run interactively, batch with script, or imbedded in Java.  
 > Run `chcclp` (windows) or `./chcclp` linux frm the bin directory of the Access server or  Management Console machine
 
-### Using chcclp in batch mode `chcclp -f <file name> `
+### Using chcclp in batch mode `chcclp -f <file name>`
 ```sh
-/opt/cdcaccess/bin/./chcclp
-
-
-
   [-i]            Starts the command line processor in interactive mode.
   [-f <filename>] Executes a series of commands from file. Specify the fully qualified path to the file.
   [-L <locale>]   Specifies the locale.
