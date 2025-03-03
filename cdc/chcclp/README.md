@@ -3,6 +3,28 @@
 > CHCCLP command can be run interactively, batch with script, or imbedded in Java.  
 > Run `chcclp` (windows) or `./chcclp` linux frm the bin directory of the Access server or  Management Console machine
 
+### Using chcclp in batch mode `chcclp -f <file name> `
+```sh
+/opt/cdcaccess/bin/./chcclp
+
+
+
+  [-i]            Starts the command line processor in interactive mode.
+  [-f <filename>] Executes a series of commands from file. Specify the fully qualified path to the file.
+  [-L <locale>]   Specifies the locale.
+  [-a]            Starts the command line processor with embedded Access Server which runs on default port 10101.
+  [-ap <port>]    Starts the command line processor with embedded Access Server which runs on specified port.
+  [-log <folder>] Specifies the log folder location when the command line processor runs with embedded Access Server.
+  [key:value]*    Specifies one or more key/value pairs where the key is used in the script
+                  as %key%. At runtime, the value is substituted. A key can appear
+                  multiple times in the file.
+  [-b]            Suppresses the interactive session banner.
+  [-e]            Echos the command when the interactive prompt receives all input at once.
+  [-la <address>] Specifies the local address to bind a socket when establishing connections to Access Server. When not specified, the OS will determine the network interface.
+  [-lp <port>]    Specifies the port number for the connection to Access Server. When not specified, the OS will select any open port.
+```
+
+### chcclp interactive comands
 ```sh
 For more information on a specific command, type help "command";  
   
