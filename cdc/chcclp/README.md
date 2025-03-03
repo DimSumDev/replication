@@ -1,6 +1,6 @@
 ### Using CHCCLP
 > [!NOTE]
-> CHCCLP command can be run interactively, batch with script, or imbedded with Java.  
+> CHCCLP command can be run interactively, batch with script, or imbedded in Java.  
 > Run `chcclp` (windows) or `./chcclp` linux frm the bin directory of the Access server or  Management Console machine
 
 ```sh
