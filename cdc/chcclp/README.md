@@ -2,7 +2,7 @@
 > [!NOTE]
 > CHCCLP command can be run interactively, batch with script, or imbedded in Java.  
 > Run `chcclp` (windows) or `./chcclp` linux frm the bin directory of the Access server or  Management Console machine  
-> Use [Issues](https://github.com/DimSumDev/replication/issues) to search for chcclp usage and example  
+> Use [Issues](https://github.com/DimSumDev/replication/issues) to search for chcclp comand usage and example  
 
 ### Using chcclp in batch mode `chcclp -f <file name>`
 ```sh
