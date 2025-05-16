@@ -1,7 +1,7 @@
 ### Using CHCCLP
 > [!NOTE]
-> CHCCLP command can be run interactively, batch with script, or imbedded in Java.
-> Use [java](https://github.com/DimSumDev/replication/tree/main/cdc/chcclp/java) subfolder for Java information
+> CHCCLP command can be run interactively, batch with script, or imbedded in Java.  
+> Use [java](https://github.com/DimSumDev/replication/tree/main/cdc/chcclp/java) subfolder for Java information  
 > Run `chcclp` (windows) or `./chcclp` linux frm the bin directory of the Access server or  Management Console machine  
 > Use [Issues](https://github.com/DimSumDev/replication/issues) to search for chcclp comand usage and example  
 
