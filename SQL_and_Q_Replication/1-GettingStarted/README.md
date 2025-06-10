@@ -1,5 +1,5 @@
-### [Q Replication tutorial](https://www.ibm.com/docs/en/idr/11.4.0?topic=tutorials-q-replication-tutorial)
-### [Q Replication information roadmap](https://www.ibm.com/docs/en/idr/11.4.0?topic=overviews-q-replication-information-roadmap#iiyrqinfroadmap)
+### [1. Q Replication tutorial](https://www.ibm.com/docs/en/idr/11.4.0?topic=tutorials-q-replication-tutorial)
+### [2. Q Replication information roadmap](https://www.ibm.com/docs/en/idr/11.4.0?topic=overviews-q-replication-information-roadmap#iiyrqinfroadmap)
 - Overview
 - Installing
 - Migrating
