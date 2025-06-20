@@ -1,1 +1,1 @@
-### This Folder contains technical sales information on CDC presentation materials, environments / labs, and PoX materials.
+#### [IBM Support CHCCLP Tutorials](https://www.ibm.com/support/pages/chcclp-tutorials)
